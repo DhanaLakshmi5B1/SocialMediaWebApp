@@ -218,7 +218,7 @@ Open the frontend folder and run using **Live Server** or open index.html in you
 
 ## 👩‍💻 Author
 
-**Tallam Harika**  
+**KANDEPU DHANA LAKSHMI**  
 Full Stack Developer  
 CodeAlpha Internship Submission
 
