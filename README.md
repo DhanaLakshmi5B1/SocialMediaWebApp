@@ -9,9 +9,9 @@ This project was developed as part of the **CodeAlpha Internship Task – Social
 
 ## 👩‍🎓 Intern Details
 
-Name: **TALLAM HARIKA**
+Name: **KANDEPU DHANA LAKSHMI**
 
-Student ID: **CA/DF1/23660**
+Student ID: **CA/DF1/23633**
 
 Internship Domain: **Full Stack Development**
 
