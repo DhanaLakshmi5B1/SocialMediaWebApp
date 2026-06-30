@@ -168,7 +168,7 @@ CodeAlpha_SocialMedia
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/tallamharika/CODEALPHA_SOCAIL-MEDIA.git
+git clone https://github.com/DhanaLakshmi5B1/SocialMediaWebApp.git
 
 ---
 
